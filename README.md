@@ -5,9 +5,9 @@ Aplicação que simula um e-commerce voltado para o setor de moda e vestuário.
 Destaca-se o uso do **framework Next.js**, explorando os conceitos de **SSR** (server-side rendering) e **SSG** (static-side Generation), que permite determinar a forma como componentes serão renderizados, proporcionando uma melhora na performance da aplicação.
 
 ## Tecnologias:
-•	React,
-•	TypeScript,
-•	Next,
+•	React
+•	TypeScript
+•	Next
 •	Stitches
 
 ## Bibliotecas:
