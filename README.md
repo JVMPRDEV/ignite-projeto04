@@ -1,25 +1,22 @@
 # Ignite Shop
+Aplicação que simula um e-commerce voltado para o setor de moda e vestuário.
 
-Este é o Ignite Shop, projeto desenvolvido em aula com a função de uma loja de roupas fictícias
+## Tecnologia Destaque
+Destaca-se o uso do **framework Next.js**, explorando os conceitos de **SSR** (server-side rendering) e **SSG** (static-side Generation), que permite determinar a forma como componentes serão renderizados, proporcionando uma melhora na performance da aplicação.
 
-- Utilizamos Stripe para criar os produtos
-- Listagem de produtos 
-- Ver produto selecionado
-- Tela de sucesso da compra com informações do usuário
+## Tecnologias:
+•	React,
+•	TypeScript,
+•	Next,
+•	Stitches
 
-## Demonstração
+## Bibliotecas:
+•	Keen-slider
+•	Axios
 
-https://user-images.githubusercontent.com/103855358/217340990-0a9cac33-7ffa-4387-bc18-e09654d434f7.mp4
-
-## Stack utilizada
-
-**Front-end:** Next.js, Stitches
-
-## Aprendizados
-
-Criamos um projeto com o framework Next.js e StitchesJs para a estilização, passamos por conceitos de SPA, server-side rendering (SSR) e static-site generation (SSG).
+## API:
+•	Stripe
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://felipepeduardodev.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepereiraeduardo/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvmpr-dev/)
